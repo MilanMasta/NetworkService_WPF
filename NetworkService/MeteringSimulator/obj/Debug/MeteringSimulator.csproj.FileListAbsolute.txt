@@ -1,0 +1,71 @@
+C:\Users\Milan\Desktop\HCI 3\Ovaj mijenjas\MeteringSimulator - T1\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+C:\Users\Milan\Desktop\HCI 3\Ovaj mijenjas\MeteringSimulator - T1\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+C:\Users\Milan\Desktop\HCI 3\Ovaj mijenjas\MeteringSimulator - T1\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+C:\Users\Milan\Desktop\HCI 3\Ovaj mijenjas\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MeteringSimulator.csprojAssemblyReference.cache
+C:\Users\Milan\Desktop\HCI 3\Ovaj mijenjas\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\Milan\Desktop\HCI 3\Ovaj mijenjas\MeteringSimulator - T1\MeteringSimulator\obj\Debug\App.g.cs
+C:\Users\Milan\Desktop\HCI 3\Ovaj mijenjas\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+C:\Users\Milan\Desktop\HCI 3\Ovaj mijenjas\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+C:\Users\Milan\Desktop\HCI 3\Ovaj mijenjas\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MainWindow.baml
+C:\Users\Milan\Desktop\HCI 3\Ovaj mijenjas\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+C:\Users\Milan\Desktop\HCI 3\Ovaj mijenjas\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+C:\Users\Milan\Desktop\HCI 3\Ovaj mijenjas\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.GenerateResource.cache
+C:\Users\Milan\Desktop\HCI 3\Ovaj mijenjas\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+C:\Users\Milan\Desktop\HCI 3\Ovaj mijenjas\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MeteringSimulator.pdb
+C:\Users\Milan\Desktop\HCI 3\Milan Masta GZD\MeteringSimulator - T1\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+C:\Users\Milan\Desktop\HCI 3\Milan Masta GZD\MeteringSimulator - T1\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+C:\Users\Milan\Desktop\HCI 3\Milan Masta GZD\MeteringSimulator - T1\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+C:\Users\Milan\Desktop\HCI 3\Milan Masta GZD\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\Milan\Desktop\HCI 3\Milan Masta GZD\MeteringSimulator - T1\MeteringSimulator\obj\Debug\App.g.cs
+C:\Users\Milan\Desktop\HCI 3\Milan Masta GZD\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+C:\Users\Milan\Desktop\HCI 3\Milan Masta GZD\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+C:\Users\Milan\Desktop\HCI 3\Milan Masta GZD\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MainWindow.baml
+C:\Users\Milan\Desktop\HCI 3\Milan Masta GZD\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+C:\Users\Milan\Desktop\HCI 3\Milan Masta GZD\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+C:\Users\Milan\Desktop\HCI 3\Milan Masta GZD\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.GenerateResource.cache
+C:\Users\Milan\Desktop\HCI 3\Milan Masta GZD\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+C:\Users\Milan\Desktop\HCI 3\Milan Masta GZD\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MeteringSimulator.pdb
+C:\Users\Milan\Desktop\HCI 3\Milan Masta GZD\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MeteringSimulator.csprojAssemblyReference.cache
+C:\Users\Milan\Desktop\HCI 3\Projekat CG1 T1 P1 G1\MeteringSimulator - T1\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+C:\Users\Milan\Desktop\HCI 3\Projekat CG1 T1 P1 G1\MeteringSimulator - T1\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+C:\Users\Milan\Desktop\HCI 3\Projekat CG1 T1 P1 G1\MeteringSimulator - T1\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+C:\Users\Milan\Desktop\HCI 3\Projekat CG1 T1 P1 G1\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MeteringSimulator.csprojAssemblyReference.cache
+C:\Users\Milan\Desktop\HCI 3\Projekat CG1 T1 P1 G1\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\Milan\Desktop\HCI 3\Projekat CG1 T1 P1 G1\MeteringSimulator - T1\MeteringSimulator\obj\Debug\App.g.cs
+C:\Users\Milan\Desktop\HCI 3\Projekat CG1 T1 P1 G1\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+C:\Users\Milan\Desktop\HCI 3\Projekat CG1 T1 P1 G1\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+C:\Users\Milan\Desktop\HCI 3\Projekat CG1 T1 P1 G1\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MainWindow.baml
+C:\Users\Milan\Desktop\HCI 3\Projekat CG1 T1 P1 G1\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+C:\Users\Milan\Desktop\HCI 3\Projekat CG1 T1 P1 G1\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+C:\Users\Milan\Desktop\HCI 3\Projekat CG1 T1 P1 G1\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.GenerateResource.cache
+C:\Users\Milan\Desktop\HCI 3\Projekat CG1 T1 P1 G1\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+C:\Users\Milan\Desktop\HCI 3\Projekat CG1 T1 P1 G1\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MeteringSimulator.pdb
+F:\Desktop\HCI\Projekat 2\Projekat CG1 T1 P1 G1\MeteringSimulator - T1\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+F:\Desktop\HCI\Projekat 2\Projekat CG1 T1 P1 G1\MeteringSimulator - T1\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+F:\Desktop\HCI\Projekat 2\Projekat CG1 T1 P1 G1\MeteringSimulator - T1\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+F:\Desktop\HCI\Projekat 2\Projekat CG1 T1 P1 G1\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MeteringSimulator.csprojAssemblyReference.cache
+F:\Desktop\HCI\Projekat 2\Projekat CG1 T1 P1 G1\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MainWindow.g.cs
+F:\Desktop\HCI\Projekat 2\Projekat CG1 T1 P1 G1\MeteringSimulator - T1\MeteringSimulator\obj\Debug\App.g.cs
+F:\Desktop\HCI\Projekat 2\Projekat CG1 T1 P1 G1\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+F:\Desktop\HCI\Projekat 2\Projekat CG1 T1 P1 G1\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+F:\Desktop\HCI\Projekat 2\Projekat CG1 T1 P1 G1\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MainWindow.baml
+F:\Desktop\HCI\Projekat 2\Projekat CG1 T1 P1 G1\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+F:\Desktop\HCI\Projekat 2\Projekat CG1 T1 P1 G1\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+F:\Desktop\HCI\Projekat 2\Projekat CG1 T1 P1 G1\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.GenerateResource.cache
+F:\Desktop\HCI\Projekat 2\Projekat CG1 T1 P1 G1\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+F:\Desktop\HCI\Projekat 2\Projekat CG1 T1 P1 G1\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MeteringSimulator.pdb
+C:\Users\Milan\Desktop\Projekti\Projekat CG1 T1 P1 G1\MeteringSimulator - T1\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+C:\Users\Milan\Desktop\Projekti\Projekat CG1 T1 P1 G1\MeteringSimulator - T1\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+C:\Users\Milan\Desktop\Projekti\Projekat CG1 T1 P1 G1\MeteringSimulator - T1\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+C:\Users\Milan\Desktop\Projekti\Projekat CG1 T1 P1 G1\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MeteringSimulator.csprojAssemblyReference.cache
+C:\Users\Milan\Desktop\Projekti\Projekat CG1 T1 P1 G1\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\Milan\Desktop\Projekti\Projekat CG1 T1 P1 G1\MeteringSimulator - T1\MeteringSimulator\obj\Debug\App.g.cs
+C:\Users\Milan\Desktop\Projekti\Projekat CG1 T1 P1 G1\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+C:\Users\Milan\Desktop\Projekti\Projekat CG1 T1 P1 G1\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+C:\Users\Milan\Desktop\Projekti\Projekat CG1 T1 P1 G1\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MainWindow.baml
+C:\Users\Milan\Desktop\Projekti\Projekat CG1 T1 P1 G1\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+C:\Users\Milan\Desktop\Projekti\Projekat CG1 T1 P1 G1\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+C:\Users\Milan\Desktop\Projekti\Projekat CG1 T1 P1 G1\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.GenerateResource.cache
+C:\Users\Milan\Desktop\Projekti\Projekat CG1 T1 P1 G1\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Milan\Desktop\Projekti\Projekat CG1 T1 P1 G1\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+C:\Users\Milan\Desktop\Projekti\Projekat CG1 T1 P1 G1\MeteringSimulator - T1\MeteringSimulator\obj\Debug\MeteringSimulator.pdb

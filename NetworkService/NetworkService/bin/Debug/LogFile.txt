@@ -1,2 +1,1 @@
-Date Time:	11/16/2021 10:06:56 PM	Object_3	Value:	76
-Date Time:	11/16/2021 10:07:01 PM	Object_4	Value:	73
+Date Time:	11/19/2021 5:42:55 PM	Object_1	Value:	75

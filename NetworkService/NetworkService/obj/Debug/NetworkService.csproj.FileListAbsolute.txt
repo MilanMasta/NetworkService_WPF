@@ -1,0 +1,109 @@
+C:\Users\Milan\Desktop\HCI 3\Milan Masta GZD\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\Milan\Desktop\HCI 3\Milan Masta GZD\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\Milan\Desktop\HCI 3\Milan Masta GZD\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\Milan\Desktop\HCI 3\Milan Masta GZD\NetworkService\NetworkService\obj\Debug\NetworkService.csprojAssemblyReference.cache
+C:\Users\Milan\Desktop\HCI 3\Milan Masta GZD\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\Milan\Desktop\HCI 3\Milan Masta GZD\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\Milan\Desktop\HCI 3\Milan Masta GZD\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\Milan\Desktop\HCI 3\Milan Masta GZD\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\Milan\Desktop\HCI 3\Milan Masta GZD\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\Milan\Desktop\HCI 3\Milan Masta GZD\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\Milan\Desktop\HCI 3\Milan Masta GZD\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\Milan\Desktop\HCI 3\Milan Masta GZD\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\Milan\Desktop\HCI 3\Milan Masta GZD\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\Milan\Desktop\HCI 3\Milan Masta GZD\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+C:\Users\Milan\Desktop\HCI 3\Milan Masta GZD\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Milan\Desktop\HCI 3\Milan Masta GZD\NetworkService\NetworkService\obj\Debug\Views\NetworkDataView.g.cs
+C:\Users\Milan\Desktop\HCI 3\Milan Masta GZD\NetworkService\NetworkService\obj\Debug\Views\NetworkDataView.baml
+C:\Users\Milan\Desktop\HCI 3\Milan Masta GZD\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Milan\Desktop\HCI 3\Milan Masta GZD\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Milan\Desktop\HCI 3\Milan Masta GZD\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Milan\Desktop\HCI 3\Milan Masta GZD\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Milan\Desktop\HCI 3\Milan Masta GZD\NetworkService\NetworkService\obj\Debug\Views\NetworkViewView.g.cs
+C:\Users\Milan\Desktop\HCI 3\Milan Masta GZD\NetworkService\NetworkService\obj\Debug\Views\NetworkViewView.baml
+C:\Users\Milan\Desktop\HCI 3\Milan Masta GZD\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CopyComplete
+C:\Users\Milan\Desktop\HCI 3\Milan Masta GZD\NetworkService\NetworkService\obj\Debug\Views\DataChartView.g.cs
+C:\Users\Milan\Desktop\HCI 3\Milan Masta GZD\NetworkService\NetworkService\obj\Debug\Views\DataChartView.baml
+C:\Users\Milan\Desktop\HCI 3\Milan Masta GZD\NetworkService\NetworkService\obj\Debug\App.baml
+C:\Users\Milan\Desktop\HCI 3\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\Milan\Desktop\HCI 3\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\Milan\Desktop\HCI 3\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\Milan\Desktop\HCI 3\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Milan\Desktop\HCI 3\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Milan\Desktop\HCI 3\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Milan\Desktop\HCI 3\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Milan\Desktop\HCI 3\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\NetworkService.csprojAssemblyReference.cache
+C:\Users\Milan\Desktop\HCI 3\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\Milan\Desktop\HCI 3\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\Views\DataChartView.g.cs
+C:\Users\Milan\Desktop\HCI 3\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\Views\NetworkDataView.g.cs
+C:\Users\Milan\Desktop\HCI 3\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\Views\NetworkViewView.g.cs
+C:\Users\Milan\Desktop\HCI 3\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\Milan\Desktop\HCI 3\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Milan\Desktop\HCI 3\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\Milan\Desktop\HCI 3\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\Milan\Desktop\HCI 3\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\App.baml
+C:\Users\Milan\Desktop\HCI 3\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\Milan\Desktop\HCI 3\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\Views\DataChartView.baml
+C:\Users\Milan\Desktop\HCI 3\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\Views\NetworkDataView.baml
+C:\Users\Milan\Desktop\HCI 3\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\Views\NetworkViewView.baml
+C:\Users\Milan\Desktop\HCI 3\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\Milan\Desktop\HCI 3\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\Milan\Desktop\HCI 3\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\Milan\Desktop\HCI 3\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CopyComplete
+C:\Users\Milan\Desktop\HCI 3\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\Milan\Desktop\HCI 3\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+F:\Desktop\HCI\Projekat 2\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+F:\Desktop\HCI\Projekat 2\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+F:\Desktop\HCI\Projekat 2\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+F:\Desktop\HCI\Projekat 2\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+F:\Desktop\HCI\Projekat 2\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+F:\Desktop\HCI\Projekat 2\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+F:\Desktop\HCI\Projekat 2\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.xml
+F:\Desktop\HCI\Projekat 2\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\NetworkService.csprojAssemblyReference.cache
+F:\Desktop\HCI\Projekat 2\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+F:\Desktop\HCI\Projekat 2\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\Views\DataChartView.g.cs
+F:\Desktop\HCI\Projekat 2\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\Views\NetworkDataView.g.cs
+F:\Desktop\HCI\Projekat 2\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\Views\NetworkViewView.g.cs
+F:\Desktop\HCI\Projekat 2\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\App.g.cs
+F:\Desktop\HCI\Projekat 2\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Desktop\HCI\Projekat 2\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+F:\Desktop\HCI\Projekat 2\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+F:\Desktop\HCI\Projekat 2\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\App.baml
+F:\Desktop\HCI\Projekat 2\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+F:\Desktop\HCI\Projekat 2\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\Views\DataChartView.baml
+F:\Desktop\HCI\Projekat 2\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\Views\NetworkDataView.baml
+F:\Desktop\HCI\Projekat 2\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\Views\NetworkViewView.baml
+F:\Desktop\HCI\Projekat 2\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+F:\Desktop\HCI\Projekat 2\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+F:\Desktop\HCI\Projekat 2\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+F:\Desktop\HCI\Projekat 2\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CopyComplete
+F:\Desktop\HCI\Projekat 2\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+F:\Desktop\HCI\Projekat 2\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+C:\Users\Milan\Desktop\Projekti\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\Milan\Desktop\Projekti\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\Milan\Desktop\Projekti\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\Milan\Desktop\Projekti\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Milan\Desktop\Projekti\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Milan\Desktop\Projekti\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Milan\Desktop\Projekti\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Milan\Desktop\Projekti\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\NetworkService.csprojAssemblyReference.cache
+C:\Users\Milan\Desktop\Projekti\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\Milan\Desktop\Projekti\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\Views\DataChartView.g.cs
+C:\Users\Milan\Desktop\Projekti\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\Views\NetworkDataView.g.cs
+C:\Users\Milan\Desktop\Projekti\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\Views\NetworkViewView.g.cs
+C:\Users\Milan\Desktop\Projekti\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\Milan\Desktop\Projekti\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Milan\Desktop\Projekti\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\Milan\Desktop\Projekti\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\Milan\Desktop\Projekti\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\App.baml
+C:\Users\Milan\Desktop\Projekti\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\Milan\Desktop\Projekti\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\Views\DataChartView.baml
+C:\Users\Milan\Desktop\Projekti\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\Views\NetworkDataView.baml
+C:\Users\Milan\Desktop\Projekti\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\Views\NetworkViewView.baml
+C:\Users\Milan\Desktop\Projekti\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\Milan\Desktop\Projekti\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\Milan\Desktop\Projekti\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\Milan\Desktop\Projekti\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\Milan\Desktop\Projekti\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CopyComplete
+C:\Users\Milan\Desktop\Projekti\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\Milan\Desktop\Projekti\Projekat CG1 T1 P1 G1\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
